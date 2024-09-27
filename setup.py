@@ -23,7 +23,7 @@ setup(
     name="machine_learning_project",
     version='0.1',
     packages=find_packages(),
-    install_requires=get_requirment('requirements.txt'),
-    author="Gyan Prakash Gupta"
+    install_requires=get_requirment('requirement.txt'),
+    author="GyanPrakash_Gupta",
     author_email="gyanprakashgupta53@gmail.com"
 )
